@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "nuclide"
+  "defaultProject": "nuclide",
+  "cli": {
+    "analytics": false
+  }
 }
